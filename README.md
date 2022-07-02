@@ -1,5 +1,5 @@
 <h4 align="center">
-  Working as 02 july 2022 ! use [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha) for discount !!
+  Working as 02 july 2022 ! use  [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)  for discount !!
 </h4>
 
 <h1 align="center">
@@ -19,7 +19,7 @@
 <h2 align="center">
   Twitch Gen was made by
 
-Love ❌ code ✅
+SEO-AIO ❌
 
 </h2>
 
