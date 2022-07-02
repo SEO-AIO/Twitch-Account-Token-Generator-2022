@@ -28,7 +28,16 @@ Love ❌ code ✅
 ## :fire: Features
 
 ✔ Generates Twitch Accounts
+
 ✔ Very Fast (Multi Threading)
+
+---
+
+## :fire: Get Proxys and 2Captcha API KEY here
+
+👉 (10x Free HTTP/s Socks5 Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
+
+👉 2Captcha Captcha Solver [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)
 
 ---
 
@@ -36,8 +45,8 @@ Love ❌ code ✅
 
 ```sh-session
 > downloas zip file>
-> add proxies you can get at (10x Free HTTP/s Socks5 Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
-> add 2captcha key you can get at 👉 [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)
+> add proxies 👉 webshare.io/?referral_code=7j2s6r3o0eou
+> add 2captcha  👉 bit.ly/SEO-AIO-2captcha
 > run main.py
 ```
 
