@@ -1,5 +1,10 @@
 <h4 align="center">
-  Working as 02 july 2022 ! use  [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)  for discount !!
+
+  Working as 02 july 2022
+
+-10x Free Socks 5 and HTTPs Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
+
+-2Captcha Captcha Solver use link for Discount 👉 [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)
 </h4>
 
 <h1 align="center">
@@ -35,9 +40,9 @@ SEO-AIO ❌
 
 ## :fire: Get Proxys and 2Captcha API KEY here
 
-👉 10x Free Socks 5 and HTTPs Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
+-10x Free Socks 5 and HTTPs Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
 
-👉 2Captcha Captcha Solver [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)
+-2Captcha Captcha Solver use link for Discount 👉 [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)
 
 ---
 
