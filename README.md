@@ -49,13 +49,13 @@ SEO-AIO ❌
 ## 🚀・Setup Twitch Acc Gen
 
 ```sh-session
-> downloas zip file>
+> download zip file
 > add proxies 👉 webshare.io/?referral_code=7j2s6r3o0eou
 > add 2captcha  👉 bit.ly/SEO-AIO-2captcha
 > run main.py
 ```
 
-## 🎉・Upcoming/enhancements
+## 🎉・Upcoming / enhancements
 
 - Add profile picture / banner / email verification
 
