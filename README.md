@@ -25,7 +25,7 @@ Love ❌ code ✅
 
 ---
 
-## :fire: Features
+## ✅ Features
 
 ✔ Generates Twitch Accounts
 
@@ -35,7 +35,7 @@ Love ❌ code ✅
 
 ## :fire: Get Proxys and 2Captcha API KEY here
 
-👉 (10x Free HTTP/s Socks5 Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
+👉 10x Free Socks 5 and HTTPs Proxys (1GB Traffic Free) 👉 [Webshare.io 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
 
 👉 2Captcha Captcha Solver [2Captcha 🔗](https://bit.ly/SEO-AIO-2captcha)
 
